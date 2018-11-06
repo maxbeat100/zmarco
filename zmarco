@@ -11,3 +11,5 @@ START-OF-SELECTION.
 
 
 write : / .
+
+write : / 'Line 2'.
