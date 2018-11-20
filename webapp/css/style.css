@@ -1,0 +1,38 @@
+html[dir="ltr"] .myAppDemoWT .myCustomButton.sapMBtn {
+    margin-right: 0.125rem
+}
+
+html[dir="rtl"] .myAppDemoWT .myCustomButton.sapMBtn {
+    margin-left: 0.125rem
+}
+
+.myAppDemoWT .myCustomText {
+    display: inline-block;
+    font-weight: bold;
+    color: red;
+    height: 50px;
+    width: 50%;
+    background-color: powderblue;
+    font-style: italic;
+}
+
+
+/*  ProductRating */
+
+.myAppDemoWTProductRating {
+    padding: 0.75rem;
+}
+
+.myAppDemoWTProductRating .sapMRI {
+    vertical-align: auto;
+}
+
+.myAppDemoWT .orangecolor {
+    display: inline-block;
+    font-weight: bold;
+    color: orange;
+    border-style: solid;
+    background-color: yellow;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
